@@ -1,6 +1,3 @@
-# pesca
-Projeto sobre a pesca esportiva
-
 Chega de Medição Manual!
 
 Apresentando o Sistema Revolucionário de Medição Automatizada de Peixes para Campeonatos de Pesca Esportiva
